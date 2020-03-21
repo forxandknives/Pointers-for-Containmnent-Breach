@@ -1,0 +1,28 @@
+Contains all the relevant pointers I've found so far including and also including some I did not find myself in Containment Breach v1.3.11.
+
+byte Godmode = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x5b0;
+byte Noclip = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x5b4;
+byte InfStam = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x924;
+byte Notarget = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xfd4;
+byte Debughud = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xad0;
+byte Wireframe = "SCP - Containment Breach.exe" + 000F5400, 0xfdc, 0x23f;
+byte Sanic = "SCP - Containment Breach.exe" + 000F5400, 0xfdc, 0x3e4;
+byte RemoteDoorControl = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x12e8;
+byte MaxFPS = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x6c;
+byte SCP294 = "SCP - Containment Breach.exe" + 000F5400, 0xfdc, 0x1198;
+
+float Stamina = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x394;
+float Blink = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x380;
+float PlayerX = "SCP - Containment Breach.exe" + 000F5400, 0x160, 0x140, 0x40;
+float PlayerY = "SCP - Containment Breach.exe" + 000F5400, 0x160, 0x140, 0x44;
+float PlayerZ = "SCP - Containment Breach.exe" + 000F5400, 0x160, 0x140, 0x48;
+float CamerafogNear = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xb68;
+float CamerafogFar = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xb90;
+float DeathTimer = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x358;
+float SCP106State = "SCP - Containment Breach.exe" + 000F5400, 0xbc, 0x8, 0x88, 0x8, 0xec, 0x8, 0x178;
+float Injuries = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x3ec;
+float Bloodloss = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x3f0;
+float 008State = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x3f4;
+float Gamma = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xb4;
+
+d3d11 internal menu coming when 1.4 comes out
