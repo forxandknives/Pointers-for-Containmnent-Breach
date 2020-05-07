@@ -24,5 +24,6 @@ float Injuries = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x3ec;
 float Bloodloss = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x3f0;
 float 008State = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0x3f4;
 float Gamma = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xb4;
+float mouseSensitivity = "SCP - Containment Breach.exe" + 000F5400, 0x98, 0xbbc;
 
 d3d11 internal menu coming when 1.4 comes out
